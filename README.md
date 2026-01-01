@@ -308,16 +308,7 @@ Sistema de análise de dados para insights estratégicos.
 
 Este TCC é composto por **3 repositórios + documentação acadêmica**:
 
-### 1️⃣ Documentação Acadêmica (Este Repositório)
-```
-TCC-Aplicacao-Movel-de-Literatura-Digital/
-├── 📄 Documentação Acadêmica - LêBits.pdf (62 páginas)
-├── 📊 Diagramas EER
-├── 🎨 Protótipos Figma (18 telas)
-├── 📈 Pesquisa de Aplicabilidade (61 respondentes)
-├── 📊 Análises SWOT e Matriz de Comparação
-└── 📖 README.md
-```
+### 1️⃣ Documentação Acadêmica, Modelagem lógica & Scripts SQL (Este Repositório)
 
 ### 2️⃣ [Aplicativo Móvel](https://github.com/Aram-Bohmann/App-de-Literatura)
 - Código-fonte Cordova
@@ -582,25 +573,25 @@ LêBits se enquadra como **EdTech** - tecnologia focada em melhoramento do apren
 
 ### Roadmap de Desenvolvimento
 
-#### Fase 1 - MVP (3 meses)
+#### Fase 1 - MVP
 - [ ] Finalizar aplicativo móvel completo
 - [ ] Implementar sistema de autenticação
 - [ ] Deploy do banco de dados em produção
 - [ ] Integrar modelo ML ao backend
 
-#### Fase 2 - Beta Testing (2 meses)
+#### Fase 2 - Beta Testing
 - [ ] Teste com 100 usuários beta
 - [ ] Ajustes baseados em feedback
 - [ ] Otimização de performance
 - [ ] Correção de bugs críticos
 
-#### Fase 3 - Lançamento (1 mês)
+#### Fase 3 - Lançamento
 - [ ] Publicação na Google Play Store
 - [ ] Campanha de marketing digital
 - [ ] Parcerias com distribuidoras
 - [ ] Onboarding de autores independentes
 
-#### Fase 4 - Expansão (6 meses)
+#### Fase 4 - Expansão
 - [ ] Versão iOS (App Store)
 - [ ] Versão Web Progressive App
 - [ ] Integração com mais distribuidoras
@@ -628,9 +619,6 @@ LêBits se enquadra como **EdTech** - tecnologia focada em melhoramento do apren
 | Nome | Papel | LinkedIn |
 |------|-------|----------|
 | **Aram Bohmann Leite da Luz** | Desenvolvedor Full-Stack & Data Scientist | [LinkedIn](https://linkedin.com/in/aram-luz-1b0ab1321/) |
-| **David Zumach** | Desenvolvedor | - |
-| **Enzo Dias** | Desenvolvedor | - |
-| **João Victor Pereira** | Desenvolvedor | - |
 
 ---
 
